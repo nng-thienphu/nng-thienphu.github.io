@@ -1,0 +1,23 @@
+{
+    "name": "Comma Project",
+    "short_name": "Comma Project",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Community-based Solution",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "152x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
